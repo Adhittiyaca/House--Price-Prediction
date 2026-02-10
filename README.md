@@ -17,7 +17,8 @@
 This project focuses on predicting house prices using Machine Learning regression techniques implemented completely from scratch. The objective is to understand the mathematical foundation behind regression and build a working prediction model without relying on built-in ML model libraries.
 
 ---
-
+## Data set used 
+california_housing.csv from kaggle
 ##  Technologies Used
 - Python  
 - NumPy  
