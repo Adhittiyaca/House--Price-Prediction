@@ -40,7 +40,7 @@ california_housing.csv from kaggle
 ##  Methodology
 1. Data Cleaning and Preprocessing  
 2. Exploratory Data Analysis (EDA)  
-3. Implementation of Linear / Multiple Linear Regression from scratch  
+3. Implementation of Linear / Multiple Linear/polynomial Regression from scratch  
 4. Model Evaluation using performance metrics  
 
 ---
