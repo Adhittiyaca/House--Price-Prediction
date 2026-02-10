@@ -1,9 +1,9 @@
 # ASSIGNMENT-1  
-## 🏠 House Price Prediction using Machine Learning  
+## House Price Prediction using Machine Learning  
 
 ---
 
-### 👨‍💻 Submitted By
+###  Submitted By
 
 | Name | Roll No. |
 |------|----------|
@@ -18,7 +18,7 @@ This project focuses on predicting house prices using Machine Learning regressio
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python  
 - NumPy  
 - Pandas  
@@ -27,7 +27,7 @@ This project focuses on predicting house prices using Machine Learning regressio
 
 ---
 
-## 📊 Features Used
+##  Features Used
 - Area  
 - Number of Bedrooms  
 - Number of Bathrooms  
@@ -36,7 +36,7 @@ This project focuses on predicting house prices using Machine Learning regressio
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 1. Data Cleaning and Preprocessing  
 2. Exploratory Data Analysis (EDA)  
 3. Implementation of Linear / Multiple Linear Regression from scratch  
@@ -44,7 +44,7 @@ This project focuses on predicting house prices using Machine Learning regressio
 
 ---
 
-## 📈 Evaluation Metrics
+##  Evaluation Metrics
 - Mean Squared Error (MSE)  
 - Root Mean Squared Error (RMSE)  
 - R² Score  
