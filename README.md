@@ -7,9 +7,9 @@
 
 | Name | Roll No. |
 |------|----------|
-| Adhittiyaca Saroj | 268 |
 | Aashi Srivastava | 266 |
 | Abhinav Kumar | 267 |
+| Adhittiyaca Saroj | 268 |
 
 ---
 
