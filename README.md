@@ -31,7 +31,7 @@ This project focuses on predicting house prices using Machine Learning regressio
 - Area  
 - Number of Bedrooms  
 - Number of Bathrooms  
-- Location (if applicable)  
+- Location  
 - Other relevant housing features  
 
 ---
@@ -51,5 +51,5 @@ This project focuses on predicting house prices using Machine Learning regressio
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 This project demonstrates the internal working of regression algorithms by implementing them mathematically without using built-in ML libraries. It provides a deeper understanding of how house price prediction models operate in real-world scenarios.
