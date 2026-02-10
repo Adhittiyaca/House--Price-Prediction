@@ -54,3 +54,4 @@ california_housing.csv from kaggle
 
 ##  Conclusion
 This project demonstrates the internal working of regression algorithms by implementing them mathematically without using built-in ML libraries. It provides a deeper understanding of how house price prediction models operate in real-world scenarios.
+## Graph
